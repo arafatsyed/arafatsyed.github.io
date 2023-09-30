@@ -221,7 +221,6 @@ dt {
 
 ul.side-nav {
   width: 190px;
-  background-color: #E25E3E;
 }
 
 ul.side-nav li {
@@ -238,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(255, 255, 255);
+  color: rgb(16, 202, 56);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -550,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #6499E9 !important;
 }
 
 /* .teal-text {
@@ -560,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #6499E9 !important;
 }
 
 /* .teal {
