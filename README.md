@@ -12,6 +12,11 @@ Activity 2:
 
 Activity 3:
 
+![image](https://github.com/arafatsyed/arafatsyed.github.io/assets/55632837/c83293f2-7447-478d-901e-5a4a12fe4a04)
+
+![image](https://github.com/arafatsyed/arafatsyed.github.io/assets/55632837/fd69ff2c-0c72-4047-b592-92370c0b3b82)
+
+
 
 
 
